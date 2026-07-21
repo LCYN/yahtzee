@@ -1,0 +1,26 @@
+name: yahtzee_game
+description: "A Yahtzee-style mobile game built with Flutter."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  just_audio: ^0.9.36
+  cupertino_icons: ^1.0.6
+  cloud_firestore: ^4.15.5
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/audios/rolling-dice.mp3

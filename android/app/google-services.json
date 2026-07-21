@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495876470631",
+    "project_id": "yahtzee-44b21",
+    "storage_bucket": "yahtzee-44b21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495876470631:android:bdfb8f054b2f6d09a621c2",
+        "android_client_info": {
+          "package_name": "com.example.yahtzee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoqCz7PTz8G1GWfSciFA5Dz0MPJITu_hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
